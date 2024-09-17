@@ -1,4 +1,4 @@
-package optimize_using_enum;
+package O1_optimize_using_enum;
 
 public class ShippingCostCalculator {
 

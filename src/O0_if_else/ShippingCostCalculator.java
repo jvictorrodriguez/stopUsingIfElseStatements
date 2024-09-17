@@ -1,4 +1,4 @@
-package if_else;
+package O0_if_else;
 
 public class ShippingCostCalculator {
     public double calculateShippingCost(String shippingType, double weight) {
